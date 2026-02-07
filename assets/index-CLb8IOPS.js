@@ -19478,7 +19478,7 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
   c0 = l0,
   ec =
     "https://x.com/SanChan_dog",
-  ci = "/inventory",
+  ci = "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
   lE = "",
   Dn = "https://t.me/SanChan_dog",
   tc = "https://x.com/SanChan_dog",
@@ -23152,7 +23152,7 @@ W1.loadLanguages;
 const Cw = "ABOUT",
   ew = "WHITEPAPER",
   tw = "ROADMAP",
-  nw = "MEME",
+  nw = "Chart",
   rw = "HOW TO BUY",
   ow = "", //Claim  on Pinksale
   iw = "$SAN Contract Address",
