@@ -19484,7 +19484,7 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
   tc = "https://x.com/SanChan_dog",
   o9 = "./BOBUKINEKOWHITEPAPER.pdf",
   uE =
-    "https://www.dextools.io/app/en/ether/pair-explorer/0x0d06f211438210d17d36fab943d618df0d532eb6?t=1734891417516",
+    "https://www.dextools.io/app/en/ether/pair-explorer/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b",
   e3 = {
     home: "home",
     about: "about",
@@ -19498,12 +19498,12 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
   di = [
     { img: XA, url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b&chain=mainnet" },
     { img: qA, url: "https://x.com/SanChan_dog" },
-    { img: JA, url: "https://dextools.io" },
-    { img: CE, url: "https://dexscreener.com/ethereum/0x0d06f211438210d17d36fab943d618df0d532eb6" },
+    { img: JA, url: "https://www.dextools.io/app/en/ether/pair-explorer/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b" },
+    { img: CE, url: "https://dexscreener.com/ethereum/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b" },
     { img: eE, url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b&chain=mainnet" },
     { img: tE, url: "https://x.com/SanChan_dog" },
-    { img: nE, url: "https://dextools.io" },
-    { img: rE, url: "https://dexscreener.com/ethereum/0x0d06f211438210d17d36fab943d618df0d532eb6" },
+    { img: nE, url: "https://www.dextools.io/app/en/ether/pair-explorer/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b" },
+    { img: rE, url: "https://dexscreener.com/ethereum/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b" },
   ],
   cE = (C) => ({
     phase1: {
@@ -24371,7 +24371,7 @@ const Ak = () => {
                 }),
                 u.jsx(n6, {
                   className: C.btnDecxTools,
-                  onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x0d06f211438210d17d36fab943d618df0d532eb6?t=1734891417516", "_blank"),
+                  onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b", "_blank"),
                 }),
                 u.jsx("img", { src: QA, className: C.icon }),
                 u.jsx("img", { src: KA, className: C.icon }),
@@ -25229,7 +25229,7 @@ const Bk = X3()(() => ({
                   className: C.stepContainer,
                   children: u.jsxs("div", {
                     className: e(C.step, "brownpaw"),
-                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x0d06f211438210d17d36fab943d618df0d532eb6?t=1734891417516", "_blank"),
+                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b", "_blank"),
                     children: [
                       u.jsxs("div", {
                         style: { display: "flex", gap: "1rem" },
@@ -25252,7 +25252,7 @@ const Bk = X3()(() => ({
                   className: C.stepContainer,
                   children: u.jsx("div", {
                     className: e(C.step, "pinkpaw"),
-                    onClick: () => window.open("https://dexscreener.com/ethereum/0x0d06f211438210d17d36fab943d618df0d532eb6", "_blank"),
+                    onClick: () => window.open("https://dexscreener.com/ethereum/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b", "_blank"),
                     children: u.jsxs("div", {
                       style: { display: "flex", gap: "1rem" },
                       children: [
@@ -25346,7 +25346,7 @@ const Bk = X3()(() => ({
                   u.jsx("div", {
                     className: C.linkContainer,
                     style: { background: "#F6D396" },
-                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x0d06f211438210d17d36fab943d618df0d532eb6?t=1734891417516", "_blank"),
+                    onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b", "_blank"),
                     children: u.jsxs("div", {
                       style: { position: "relative" },
                       children: [
@@ -25372,7 +25372,7 @@ const Bk = X3()(() => ({
                   u.jsx("div", {
                     className: C.linkContainer,
                     style: { background: "#F95093" },
-                    onClick: () => window.open("https://dexscreener.com/ethereum/0x0d06f211438210d17d36fab943d618df0d532eb6", "_blank"),
+                    onClick: () => window.open("https://dexscreener.com/ethereum/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b", "_blank"),
                     children: u.jsxs("div", {
                       style: { position: "relative" },
                       children: [
