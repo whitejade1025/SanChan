@@ -19480,7 +19480,7 @@ const T6 = "/assets/bobukiheading-DLr1HVgv.png",
     "https://x.com/SanChan_dog",
   ci = "https://www.dextools.io/app/en/ether/pair-explorer/0x7cba815d7dadd811948c6f9d35df8ff437b3ef1b",
   lE = "",
-  Dn = "https://t.me/SanChan_dog",
+  Dn = "https://t.me/SanChanDog",
   tc = "https://x.com/SanChan_dog",
   o9 = "./BOBUKINEKOWHITEPAPER.pdf",
   uE =
@@ -24359,7 +24359,7 @@ const Ak = () => {
                 }),
                 u.jsx(n6, {
                   className: C.btnTelegram,
-                  onClick: () => window.open("https://t.me/SanChan_dog", "_blank"),
+                  onClick: () => window.open("https://t.me/SanChanDog", "_blank"),
                 }),
                 u.jsx(n6, {
                   className: C.btnTwitter,
